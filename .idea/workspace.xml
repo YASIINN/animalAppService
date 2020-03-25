@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d14cedb5-eb98-42ca-ac9b-6f756ed3ae77" name="Default Changelist" comment="" />
+    <list default="true" id="d14cedb5-eb98-42ca-ac9b-6f756ed3ae77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -117,6 +122,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YwnWnNjbtmZdtFvo2uPZeIOJ7p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -165,7 +171,8 @@
       <workItem from="1584369895929" duration="1600000" />
       <workItem from="1584436207823" duration="640000" />
       <workItem from="1584446180015" duration="1499000" />
-      <workItem from="1584458592135" duration="1143000" />
+      <workItem from="1584458592135" duration="1844000" />
+      <workItem from="1584626156660" duration="9000" />
     </task>
     <servers />
   </component>
@@ -177,10 +184,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="172" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1584254896413" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584458591867">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1584626164457">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1584458591867" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1584626164457" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584626156496">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1600.870@0.0.1536.834" timestamp="1584626156496" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1584256678557">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
